@@ -20,3 +20,9 @@
 - Day 1：AI 生态全景认知 + 工具注册
   - 产出：5 页手写笔记、AI 概念表、3 个问题回答
   - 注册：DeepSeek、Kimi、即刻、GitHub
+- Day 2：工具链搭建 + 深化认知
+  - 视频学习：吴恩达 AI for Everyone 3 集
+  - 安装：沉浸式翻译、Obsidian、ChatGPT 客户端
+  - Obsidian 笔记系统搭建完成（5 文件夹 + 3 个笔记迁移）
+  - Kimi 长文档对话测试
+  - ChatGPT 登录测试
