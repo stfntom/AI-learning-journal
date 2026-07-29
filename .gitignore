@@ -1,0 +1,11 @@
+# Obsidian workspace files (local-only, not for sharing)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Snipaste config (if accidentally placed here)
+*.ini
